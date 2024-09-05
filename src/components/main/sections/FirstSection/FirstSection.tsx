@@ -22,7 +22,7 @@ const FirstSection = () => {
         </h1>
 
         <p className={cl.p}>
-          I'm Wayface. Lorem Ipsum is simply dummy text of the printing and{' '}
+          I'm Wildesh. Lorem Ipsum is simply dummy text of the printing and{' '}
           <br />
           typesetting industry. Lorem Ipsum has been the industry's standard{' '}
           <br />
