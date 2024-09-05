@@ -1,0 +1,13 @@
+.container {
+  margin: 60px 80px;
+  padding: 0 32px;
+  @apply flex items-center justify-center flex-col;
+}
+
+.h1 {
+  @apply font-normal text-5xl py-5 my-5;
+
+  span {
+    @apply font-extrabold;
+  }
+}

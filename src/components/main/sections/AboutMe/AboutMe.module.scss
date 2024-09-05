@@ -1,0 +1,25 @@
+.container {
+  margin: 60px 80px;
+  padding: 0 32px;
+  @apply flex justify-between;
+}
+
+.layout {
+  @apply flex flex-col gap-5 justify-start items-start;
+}
+
+.h1 {
+  @apply text-5xl font-normal py-5;
+
+  .span {
+    @apply font-extrabold;
+  }
+}
+
+.text {
+  @apply text-base max-w-xl flex flex-col gap-5;
+
+  .p {
+    @apply text-primary-neutral;
+  }
+}

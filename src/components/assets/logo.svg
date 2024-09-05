@@ -1,0 +1,15 @@
+<svg width="39.905884" height="40.000000" viewBox="0 0 39.9059 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_170">
+			<rect id="logo 1" rx="-0.500000" width="38.905884" height="39.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="logo 1" rx="-0.500000" width="38.905884" height="39.000000" transform="translate(0.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip2_170)">
+		<path id="Vector" d="M31.52 14.21C31.52 18.88 28.76 22.9 24.77 24.73C26.46 23.34 27.53 21.24 27.53 18.89C27.53 14.76 24.22 11.4 20.11 11.32C20.05 11.31 20 11.31 19.95 11.31C19.89 11.31 19.84 11.31 19.79 11.32C18.26 11.4 17.05 12.66 17.05 14.21L17.05 28.68C17.05 33.47 13.16 37.36 8.37 37.36L8.37 14.21C8.37 7.81 13.56 2.63 19.95 2.63C26.34 2.63 31.52 7.81 31.52 14.21Z" fill="#000000" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M21.99 12.16C23.12 13.29 23.12 15.12 21.99 16.25C20.86 17.38 19.03 17.38 17.9 16.25C16.77 15.12 16.77 13.29 17.9 12.16C19.03 11.03 20.86 11.03 21.99 12.16Z" fill="#000000" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>

@@ -1,0 +1,52 @@
+.sectionContainer {
+  @apply bg-primary-black; // чтоб без маргинов было
+}
+
+.container {
+  margin: 60px 80px;
+  padding: 0 32px;
+}
+
+.h1 {
+  color: white;
+  font-weight: 400;
+  font-size: 56px;
+  display: flex;
+  padding: 20px 0;
+  margin: 20px 0;
+  justify-content: center;
+}
+
+.posts {
+  @apply mx-6 my-10 flex flex-col gap-8;
+
+  .first,
+  .second,
+  .third {
+    @apply border-2 rounded-lg border-solid border-primary-neutral px-6 py-7;
+
+    .header {
+      @apply flex items-center justify-between gap-3 mb-7;
+
+      .title {
+        @apply flex items-center justify-between gap-3;
+
+        .span {
+          @apply text-primary-white  text-lg;
+        }
+      }
+
+      .createdAt {
+        @apply text-sm text-primary-gray font-normal;
+      }
+    }
+
+    .desc {
+      @apply text-primary-gray text-base;
+    }
+  }
+
+  .second {
+    background: rgb(39, 39, 42);
+  }
+}

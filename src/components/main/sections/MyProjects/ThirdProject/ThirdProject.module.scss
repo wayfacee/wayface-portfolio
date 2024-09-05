@@ -1,0 +1,31 @@
+.third {
+  @apply py-5 flex justify-between items-center; 
+
+  img {
+    @apply flex justify-start items-start mr-10;
+  }
+
+  .texts {
+    @apply flex flex-col items-start justify-start gap-7 ;
+
+    h1 {
+      @apply text-5xl font-extrabold text-primary-white;
+    }
+
+    h5 {
+      @apply text-3xl font-bold text-primary-white max-w-xl;
+    }
+
+    p {
+      @apply text-base font-normal text-primary-gray max-w-xl;
+    }
+
+    a {
+      @apply w-5 h-5;
+    }
+  }
+
+  img {
+    @apply flex justify-end items-end;
+  }
+}
