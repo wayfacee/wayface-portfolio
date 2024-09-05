@@ -42,6 +42,4 @@ const AboutMe = () => {
   );
 };
 
-AboutMe.displayName = 'AboutMe';
-
 export { AboutMe };
