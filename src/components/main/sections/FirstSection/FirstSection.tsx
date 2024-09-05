@@ -56,5 +56,4 @@ const FirstSection = () => {
     </section>
   );
 };
-
 export { FirstSection };
