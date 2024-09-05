@@ -80,3 +80,5 @@ export const ContactForm = memo(() => {
     </div>
   );
 });
+
+ContactForm.displayName = 'ContactForm'
