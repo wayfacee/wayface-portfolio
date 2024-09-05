@@ -14,7 +14,7 @@ const FirstSection = () => {
         <h1 className={cl.h1}>
           Hello I’am{' '}
           <span className="font-semibold">
-            Wayface. <br /> Frontend{' '}
+            Wildesh. <br /> Frontend{' '}
             <span className="font-extrabold">Developer</span>
           </span>
           <br />
@@ -56,4 +56,5 @@ const FirstSection = () => {
     </section>
   );
 };
+
 export { FirstSection };
